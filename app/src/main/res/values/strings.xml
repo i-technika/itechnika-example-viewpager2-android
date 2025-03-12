@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ViewPager2 Example</string>
+
+    <string name="rv_adapter">RecyclerView Adapter</string>
+    <string name="rv_text_1">Flower</string>
+    <string name="rv_text_2">Yellow Pipe</string>
+    <string name="rv_text_3">Garage</string>
+    <string name="rv_text_4">Forest</string>
+    <string name="rv_text_5">Bird</string>
+
+    <string name="fs_adapter">Fragment State Adapter</string>
+    <string name="fs_text_1">I received a report that there was an issue with the Tomcat session in a project I worked on previously.\nUpon investigation, I found that UDP could not be used, and when I contacted the network administrator, I was told that UDP was blocked due to internal policies.\nI modified the Cluster element in config/server.xml as follows.</string>
+    <string name="fs_text_3">Since this was a change to the multicast configuration I had done previously, it worked immediately after restarting Tomcat. However, one thing to note is that you need to add the distributable element in the web.xml inside the WEB-INF directory as follows.</string>
+
+</resources>
